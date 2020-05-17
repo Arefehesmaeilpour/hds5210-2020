@@ -1,0 +1,22 @@
+PART 1:
+Nice work
+
+PART 2:
+Great
+
+PART 3:
+Great!
+
+PART 4:
+This works, but you're ultimately doing a lot of extra steps.  Rather than iterating through your output structure, I would suggest trying to built it directly using Pandas methods.  To get the start/end dates, you could pivot or do them all at once rather one location at a time.  -0.5
+
+A worktable approach, though.
+
+PART 5:
+Similar feedback.  The loop works, but a join would have beem most appropriate.  -0.5
+
+PART 6:
+Good thought process here.  I think your observation that there are a lot of other factors is important.  I sould suggest that one pattern you might see is that larger / more dense counties never have a longer doubling time than smaller areas.
+
+
+
